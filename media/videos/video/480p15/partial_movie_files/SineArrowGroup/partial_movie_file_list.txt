@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/matmy/NTNU lokal/9 semester/visuell formidling/video/media/videos/video/480p15/partial_movie_files/SineArrowGroup/1185818338_3566078693_644294742.mp4'
+file 'file:C:/Users/matmy/NTNU lokal/9 semester/visuell formidling/video/media/videos/video/480p15/partial_movie_files/SineArrowGroup/624642324_1095082298_1438441348.mp4'
+file 'file:C:/Users/matmy/NTNU lokal/9 semester/visuell formidling/video/media/videos/video/480p15/partial_movie_files/SineArrowGroup/624642324_1609812626_1137378427.mp4'

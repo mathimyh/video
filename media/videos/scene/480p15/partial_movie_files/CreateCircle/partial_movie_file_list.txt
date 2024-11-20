@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/matmy/NTNU lokal/9 semester/visuell formidling/video/media/videos/scene/480p15/partial_movie_files/CreateCircle/1185818338_3386477720_223132457.mp4'
